@@ -1,0 +1,24 @@
+Total de avaliações: 260
+
+Distribuição das classes:
+sentimento
+negativo    130
+positivo    130
+Name: count, dtype: int64
+
+Média de palavras por sentimento:
+sentimento
+negativo    7.707692
+positivo    7.700000
+Name: quantidade_palavras, dtype: float64
+
+Exemplos positivos:
+                         Adorei o aplicativo, show
+   Adorei o atendimento, nota máxima para a equipe
+Ficou lindo na sala, combinou perfeitamente com...
+
+Exemplos negativos:
+          Detestei o fone, ruim, nunca mais compro
+                       A embalagem não é excelente
+Cheguei animado, mas me arrependi, tudo estava ...
+
