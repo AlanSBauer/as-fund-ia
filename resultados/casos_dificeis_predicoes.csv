@@ -1,0 +1,14 @@
+texto,tipo,esperado,previsto,probabilidade_positivo
+Não gostei nada do atendimento,negação,negativo,negativo,0.2643727262161806
+"Não é ruim, gostei bastante",negação,positivo,positivo,0.67837369058919
+"Não tenho nada a reclamar, tudo perfeito",negação,positivo,negativo,0.41970800201637304
+"Sem defeitos, funciona direitinho",negação,positivo,negativo,0.4455639738468689
+"Que ótimo, o produto chegou quebrado",ironia,negativo,positivo,0.8260426088356045
+"Maravilha, mais uma vez a entrega atrasou",ironia,negativo,negativo,0.44101509713242043
+"Parabéns pela eficiência, só esperei duas semanas e nada",ironia,negativo,negativo,0.34970989145315545
+"O produto é bom, mas a entrega foi péssima",misto,misto,positivo,0.8241732378757461
+"Gostei do preço, mas o atendimento deixou a desejar",misto,misto,positivo,0.86526128397348
+"Foi mais ou menos, esperava mais",expressão,negativo,negativo,0.25137972054966795
+Chegou ontem,neutro,neutro,negativo,0.4818840502094765
+"Produto muito bom, recomendo",controle,positivo,positivo,0.8071303230994973
+"Péssimo, não compro mais",controle,negativo,negativo,0.04640554241093586
